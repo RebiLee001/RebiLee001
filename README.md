@@ -16,7 +16,7 @@
 ## About Me
 
 👀 I’m interested in **tech** and creating **cool and fun stuff through code**...  
-🌱 I’m currently learning **HTML, CSS, and JavaScript** (Front-End Web Development) via **ALX Africa**.  
+🌱 I’m currently at intermediary stage with **HTML, CSS, JavaScript and ReactJs** (Front-End Web Development) via **ALX Africa**.  
 ✨ My background as a **Lawyer and Legal Documentation Writer** brings a unique perspective to my work in tech.  
 🚀 I'm transitioning into **Full-Stack Development** because I want to build holistic and innovative solutions from end to end.
 
