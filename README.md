@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  🚀 Former Lawyer turned <strong>Tech Enthusiast</strong> <br />
+  🚀 Lawyer turned <strong>Tech Enthusiast</strong> <br />
   🌍 Based in Nigeria, dreaming to go global | 💡 Passionate about Women Empowerment through Tech
 </p>
 
